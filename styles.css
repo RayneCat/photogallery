@@ -11,7 +11,7 @@ body {
 }
 
 main {
-  margin: 10px 20px;
+  margin: -5px 20px;
 }
 
 header {
@@ -25,6 +25,10 @@ h1 {
 
 h1, h2 {
     text-transform:uppercase;
+}
+
+h2 {
+  font-size: 40px;
 }
 
 nav {
